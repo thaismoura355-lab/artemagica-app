@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Expo build files
+.expo/
+
+# Android files
+android/
+
+# iOS files
+ios/
+
+# Other common ignored files
+.DS_Store
+.env
+*.log
+*.cache
+
+# Ignore the build output
+build/
